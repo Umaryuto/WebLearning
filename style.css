@@ -45,10 +45,13 @@
   .modal-body{
     text-align: center;
   }
-
-  .tombol1{
-    border-radius: 50px;
-  }
+/* tidak dipakai */
+  /* .tombol1{
+   
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 100%;
+  } */
 /* Buat Dekstop Version*/
 @media (min-width: 992px) { 
    .nav-link{
